@@ -1,0 +1,5 @@
+.terraform
+terraform.tfstate
+terraform.tfstate.backup
+environments/dev/provider.tf
+environments/prod/provider.tf
